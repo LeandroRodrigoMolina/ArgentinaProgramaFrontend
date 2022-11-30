@@ -1,13 +1,18 @@
 #nombreNav{
     color: white;
 }
-#fotoCara{
+.fotoPequeña{
     width: 200px;
     height: 200px;
     margin-top: -110px;
+}
+.fotoMasPequeña{
+    width: 100;
+    height: 100px;
 }
 .iconTop{
     font-size: 30px;
     color: white;
     margin-left: 10px;
+    margin-right: 10px;
 }
