@@ -4,12 +4,12 @@
 }
 
 .fotoPequeña{
-    width: 200px;
-    height: 200px;
+    width: 150px;
+    height: 150px;
     margin-top: -110px;
 }
 .fotoMasPequeña{
-    width: 100;
+    width: 100px;
     height: 100px;
 }
 .iconTop{
@@ -21,4 +21,12 @@
 
 .card{
     margin-bottom: 10px;
+}
+
+@media screen and (max-width:650px){
+    .fotoPequeña{
+        width: 120px;
+        height: 120px;
+        margin-top: -50px;
+    }
 }
