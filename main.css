@@ -19,10 +19,10 @@
     margin-right: 10px;
 }
 
-.card{
+div.card{
     margin-bottom: 10px;
+    border-radius: 30px;
 }
-
 @media screen and (max-width:650px){
     .fotoPequeña{
         width: 120px;
